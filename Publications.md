@@ -12,6 +12,8 @@ I have great collaborators who make all this work possible. Thank you!
 
 <p class="p1">1. Compressing Networks with Super nodes. N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a>. Under Review. </p> 
 
+<p class="p1">1. Stochastic Block Models with Multiple Continuous Attributes. N. Stanley,T. Bonacci,R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a>. Under Review. </p> 
+
 <p class="p1"><strong>Published:</strong></p>
 
 1.Case Studies in Network Community Detection. S. Shai, N . Stanley, C. Granell, D. Taylor, P.J. Mucha. Oxford Handbook of Social Networks.2017. <a href="https://arxiv.org/abs/1705.02305">paper</a> 
