@@ -7,7 +7,7 @@ title: Publications
 I have great collaborators who make all this work possible. Thank you!
 
 <p class="p1"><strong>Submitted:</strong></p>
-<p class="p1">9. Testing alignment of node attributes with network structure through label propagation. N. Stanley, M. Niethammer &amp; P.J. Mucha.  Under Review. </p> 
+<p class="p1">9. Testing alignment of node attributes with network structure through label propagation. N. Stanley, M. Niethammer &amp; P.J. Mucha.  <a href="https://arxiv.org/abs/1805.07375">arxiv</a>  Under Review. </p> 
 
 <p class="p1"><strong>Pre Prints:</strong></p>
 
