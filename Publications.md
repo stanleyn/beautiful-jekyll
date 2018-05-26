@@ -7,7 +7,7 @@ title: Publications
 I have great collaborators who make all this work possible. Thank you!
 
 <p class="p1"><strong>Recently Accepted:</strong></p>
-10. Multi-Layer Large-Scale Functional Connectome Reveals Infant Brain Developmental Patterns. H. Zhang, N. Stanley, P. Mucha, W. Yin, W. Lin, D. Shen. Accepted at MICCAI 2018! </p>
+<p class="p1">10. Multi-Layer Large-Scale Functional Connectome Reveals Infant Brain Developmental Patterns. H. Zhang, N. Stanley, P. Mucha, W. Yin, W. Lin, D. Shen. Accepted at MICCAI 2018! </p>
 
 <p class="p1"><strong>Pre Prints:</strong></p>
 
