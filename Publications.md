@@ -4,7 +4,7 @@ title: Publications
 #subtitle: Why you'd want to go on a date with me
 ---
 
-I have great collaborators who make all this work possible. Thank you!
+Peer reviewed journal articles, book chapters  and conference/workshop proceedings
 
 <p class="p1"><strong>Recently Accepted:</strong></p>
 <p class="p1">10. Multi-Layer Large-Scale Functional Connectome Reveals Infant Brain Developmental Patterns. H. Zhang, N. Stanley, P. Mucha, W. Yin, W. Lin, D. Shen. MICCAI 2018 </p>
