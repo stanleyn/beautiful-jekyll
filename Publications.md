@@ -7,9 +7,9 @@ title: Publications
 I have great collaborators who make all this work possible. Thank you!
 
 <p class="p1"><strong>Recently Accepted:</strong></p>
-<p class="p1">10. Multi-Layer Large-Scale Functional Connectome Reveals Infant Brain Developmental Patterns. H. Zhang, N. Stanley, P. Mucha, W. Yin, W. Lin, D. Shen. Accepted at MICCAI 2018! </p>
+<p class="p1">10. Multi-Layer Large-Scale Functional Connectome Reveals Infant Brain Developmental Patterns. H. Zhang, N. Stanley, P. Mucha, W. Yin, W. Lin, D. Shen. MICCAI 2018 </p>
 
-<p class="p1">9. Testing alignment of node attributes with network structure through label propagation. N. Stanley, M. Niethammer &amp; P.J. Mucha.  <a href="https://arxiv.org/abs/1805.07375">arxiv</a>  Accepted at 2018 Workshop on Mining and Learning with Graphs! (Co-located with KDD 2018). </p>
+<p class="p1">9. Testing alignment of node attributes with network structure through label propagation. N. Stanley, M. Niethammer &amp; P.J. Mucha.  <a href="https://arxiv.org/abs/1805.07375">arxiv</a> Workshop on Mining and Learning with Graphs 2018 (Co-located with KDD 2018). </p>
 
 <p class="p1"><strong>Pre Prints:</strong></p>
 
