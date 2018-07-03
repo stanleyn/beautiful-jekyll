@@ -16,10 +16,9 @@ Peer reviewed journal articles, book chapters  and conference/workshop proceedin
 
 <p class="p1">9. Testing alignment of node attributes with network structure through label propagation. N. Stanley, M. Niethammer &amp; P.J. Mucha.  <a href="https://arxiv.org/abs/1805.07375">arxiv</a> Workshop on Mining and Learning with Graphs 2018 (Co-located with KDD 2018). </p>
 
+<p class="p1">8. Compressing Networks with Super nodes. N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a>. Scientific Reports. 2018. </p> 
+
 <p class="p1"><strong>Pre Prints:</strong></p>
-
-
-<p class="p1">8. Compressing Networks with Super nodes. N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a>. Under Review. </p> 
 
 <p class="p1">7. Stochastic Block Models with Multiple Continuous Attributes. N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1803.02726">arxiv</a>. Under Review. </p> 
 
