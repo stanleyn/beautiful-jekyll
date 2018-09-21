@@ -6,8 +6,6 @@ title: Publications
 
 Peer reviewed journal articles, book chapters  and conference/workshop proceedings
 
-<p class="p1"><strong>Recently Accepted:</strong></p>
-
 <p class="p1">12. Multiomics Modeling of the Immunome, Transcriptome, Microbiome, Proteome and Metabolome Adaptations During Human Pregnancy. M.S. Ghaemi, D. DiGuilio, K. Contrepois, B. Callahan, [more authors], N. Stanley [more authors], N. Aghaeepour. Bioinformatics 2018 </p>
 
 <p class="p1">11. Cezanne/OTUD7B is a cell cycle regulated debuiquitinase that antagonizes the degreadation of the APC/C substrates. T. Bonacci, S. Suzuki, G. Grant, N. Stanley, J. Cook, N. Brown, M. Emanuele. EMBOJ 2018 </p>
@@ -18,11 +16,7 @@ Peer reviewed journal articles, book chapters  and conference/workshop proceedin
 
 <p class="p1">8. Compressing Networks with Super nodes. N. Stanley, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1706.04110">arxiv</a>. Scientific Reports. 2018. </p> 
 
-<p class="p1"><strong>Pre Prints:</strong></p>
-
 <p class="p1">7. Stochastic Block Models with Multiple Continuous Attributes. N. Stanley, T. Bonacci, R. Kwitt, M. Niethammer &amp; P.J. Mucha. <a href="https://arxiv.org/abs/1803.02726">arxiv</a>. Under Review. </p> 
-
-<p class="p1"><strong>Published:</strong></p>
 
 6.Case Studies in Network Community Detection. S. Shai, N . Stanley, C. Granell, D. Taylor, P.J. Mucha. Oxford Handbook of Social Networks.2017. <a href="https://arxiv.org/abs/1705.02305">paper</a> 
 
