@@ -10,7 +10,7 @@ Peer reviewed journal articles, book chapters  and conference/workshop proceedin
 
 <p class="p1">11. Cezanne/OTUD7B is a cell cycle regulated debuiquitinase that antagonizes the degreadation of the APC/C substrates. T. Bonacci, S. Suzuki, G. Grant, N. Stanley, J. Cook, N. Brown, M. Emanuele. EMBOJ 2018 </p>
 
-<p class="p1">10. Multi-Layer Large-Scale Functional Connectome Reveals Infant Brain Developmental Patterns. H. Zhang, N. Stanley, P. Mucha, W. Yin, W. Lin, D. Shen. MICCAI 2018 </p> <a href="https://link.springer.com/chapter/10.1007/978-3-030-00931-1_16">paper</a> 
+<p class="p1">10. Multi-Layer Large-Scale Functional Connectome Reveals Infant Brain Developmental Patterns. H. Zhang, N. Stanley, P. Mucha, W. Yin, W. Lin, D. Shen. MICCAI 2018 </p> <a href="https://link.springer.com/chapter/10.1007/978-3-030-00931-1_16">paper</a> </p>
 
 <p class="p1">9. Testing alignment of node attributes with network structure through label propagation. N. Stanley, M. Niethammer &amp; P.J. Mucha.  <a href="https://arxiv.org/abs/1805.07375">arxiv</a> Workshop on Mining and Learning with Graphs 2018 (Co-located with KDD 2018). </p>
 
