@@ -3,7 +3,9 @@ layout: page
 title: Publications
 #subtitle: Why you'd want to go on a date with me
 ---
-
+ 
+This page is probably not up to date. :) Please visit <a href="https://scholar.google.com/citations?user=ak3dqLoAAAAJ&hl=en">google scholar!</a></p>
+ 
 Peer reviewed journal articles, book chapters  and conference/workshop proceedings
 
 <p class="p1">12. Multiomics Modeling of the Immunome, Transcriptome, Microbiome, Proteome and Metabolome Adaptations During Human Pregnancy. M.S. Ghaemi, D. DiGuilio, K. Contrepois, B. Callahan, [more authors], N. Stanley [more authors], N. Aghaeepour. Bioinformatics 2018 </p>
