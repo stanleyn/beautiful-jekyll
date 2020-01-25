@@ -4,7 +4,9 @@ title: Fun
 #subtitle: Why you'd want to go on a date with me
 ---
 
-I am grateful to live in North Carolina where the nature is gorgeous and the weather is (for the most part) beautiful. I spend my free time running, hiking, and practicing yoga. Occassionally, I like to climb but I am often worried about breaking my ankle, which would prevent me from running. :) I also like to cook vegan food and voluteer with rescue dogs. 
+These days I mostly have time for running and yoga. 
+
+And some fun photos:
 
 <center><img src="/img/May12_3.png" alt="grad1" width="400" height="350"></center> <center><img src="/img/May12_4.png" alt="grad2" width="400" height="350"></center> <center> The 2 newest Mucha PhD students! </center>
 
