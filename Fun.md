@@ -8,7 +8,8 @@ I love running in all forms- trail, road, track, etc. I have recently started do
 
 And some fun photos:
 
-<center><img src="/all.jpg" alt="grad1" width="500" height="350"></center> <center> With Stanford friends at CYTO 2019 </center>
+With Stanford friends at CYTO 2019
+<center><img src="/all.jpg" alt="grad1" width="500" height="350"></center> <center>  </center>
 
 <center><img src="/img/May12_3.png" alt="grad1" width="400" height="350"></center> <center><img src="/img/May12_4.png" alt="grad2" width="400" height="350"></center> <center> The 2 newest Mucha PhD students! </center>
 
