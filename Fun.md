@@ -8,7 +8,7 @@ These days I mostly have time for running and yoga.
 
 And some fun photos:
 
-<center><img src="/all.jpg" alt="grad1" width="400" height="350"></center> <center><img src="/all.jpg" alt="grad2" width="400" height="350"></center> <center> Some postdocs who love STAT3 </center>
+<center><img src="/all.jpg" alt="grad1" width="400" height="350"></center> <center> Some postdocs who love STAT3 </center>
 
 <center><img src="/img/May12_3.png" alt="grad1" width="400" height="350"></center> <center><img src="/img/May12_4.png" alt="grad2" width="400" height="350"></center> <center> The 2 newest Mucha PhD students! </center>
 
