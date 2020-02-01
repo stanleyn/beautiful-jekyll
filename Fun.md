@@ -10,7 +10,7 @@ And some fun photos:
 
 <center><img src="/all.jpg" alt="grad1" width="500" height="350"></center> <center> With Stanford friends at CYTO 2019 </center>
 
-<center><img src="/all.jpg" alt="grad1" width="500" height="350"></center> <center> With Stanford friends at CYTO 2019 </center>
+<center><img src="/IMG_20190118_134931.jpg" alt="grad1" width="500" height="350"></center> <center> Can I throw away my salad here? </center>
 
 <center><img src="/img/May12_3.png" alt="grad1" width="400" height="350"></center> <center><img src="/img/May12_4.png" alt="grad2" width="400" height="350"></center> <center> The 2 newest Mucha PhD students! </center>
 
