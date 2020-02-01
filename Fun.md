@@ -4,7 +4,7 @@ title: Fun
 #subtitle: Why you'd want to go on a date with me
 ---
 
-These days I mostly have time for running and yoga. 
+I love running in all forms- trail, road, track, etc. I have recently started doing a lot of yoga, which has been a very life-changing experience.
 
 And some fun photos:
 
