@@ -4,15 +4,12 @@ title: Fun
 #subtitle: Why you'd want to go on a date with me
 ---
 
-I love running in all forms- trail, road, track, etc. I have recently started doing a lot of yoga, which has been a very life-changing experience.
+I love running in all forms- trail, road, track, etc. I have recently started doing a lot of yoga, which is a very good activity for postdocs ;)
 
 And some fun photos:
 
 With Stanford friends at CYTO 2019
 <center><img src="/all.jpg" alt="grad1" width="500" height="350"></center> <center>  </center>
-
-Can I throw my salad lunch in this bin?
-<center><img src="/biohazard.png" alt="grad1" width="500" height="350"></center> <center>  </center>
 
 PhD Graduation Day!
 <center><img src="/img/May12_3.png" alt="grad1" width="400" height="350"></center> <center><img src="/img/May12_4.png" alt="grad2" width="400" height="350"></center> <center> 
