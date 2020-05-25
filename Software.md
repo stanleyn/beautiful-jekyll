@@ -8,4 +8,4 @@ title: Graph Analysis Code
 
 2. SuperNode. Preprocess your network before community detection into a smaller network of super nodes. [<a href="https://github.com/stanleyn/SuperNode">Code on Github</a>]
 
-3. Attributed SBM. A modification to the classic stochastic block model to take into account both connectivity and multiple continuous atrributes node attributes in learning the parameters of a stochastic block model. <a href="https://github.com/stanleyn/AttributedSBM">Code on Github</a>
+3. Attributed SBM. A modification to the classic stochastic block model to take into account both connectivity and multiple continuous atrributes node attributes in learning the parameters of a stochastic block model. [<a href="https://github.com/stanleyn/AttributedSBM">Code on Github</a>]
