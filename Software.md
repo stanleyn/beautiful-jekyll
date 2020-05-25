@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graph Analysis Code
+#title: Graph Analysis Code
 #subtitle: Why you'd want to go on a date with me
 ---
 
