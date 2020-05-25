@@ -23,7 +23,7 @@ description: Postdoc at Stanford
 
 # List of links in the navigation bar
 navbar-links:
-  Publications: <a href="https://scholar.google.com/citations?user=ak3dqLoAAAAJ&hl=en"></a>   #"Publications"
+  Publications: "https://scholar.google.com/citations?user=ak3dqLoAAAAJ&hl=en"   #"Publications"
   Fun: "Fun"
   Graph Analysis Code: "Software"
   #Reading: "Reading"
