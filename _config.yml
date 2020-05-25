@@ -36,7 +36,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/headshot_2020.jpg"
+title-img: <img src="img/headshot_2020.jpg" width="500" height="500">             #"/img/headshot_2020.jpg"
 
 # --- Background colour/image options --- #
 
