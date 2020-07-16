@@ -4,7 +4,7 @@ layout: page
 #subtitle: Why you'd want to go on a date with me
 ---
 
-I love running in all forms- trail, road, track, etc. I also like to practice 'power' yoga (e.g. the kind that is basically gymnastics ;)) and to explore beautiful trails. 
+I love running in all forms- trail, road, track, etc. I also like to practice 'power' yoga (e.g. lots of pushups, the fun part). I do not under any circumstances advise you to live in California. 
 
 Photos:
 
@@ -12,7 +12,7 @@ With Stanford friends at CYTO 2019
 <center><img src="/all.jpg" alt="grad1" width="500" height="350"></center> <center>  </center>
 
 PhD Graduation Day!
-<center><img src="/img/May12_3.png" alt="grad1" width="500" height="350"></center> <center><img src="/img/May12_4.png" alt="grad2" width="500" height="350"></center> <center> 
+<center><img src="/img/May12_3.png" alt="grad1" width="500" height="350"></center> <center> 
 
 <p>
 Random other beautiful memories:
