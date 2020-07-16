@@ -24,8 +24,9 @@ description: Postdoc at Stanford
 # List of links in the navigation bar
 navbar-links:
   Publications: "https://scholar.google.com/citations?user=ak3dqLoAAAAJ&hl=en"   #"Publications"
-  Fun: "Fun"
   Code: "Software"
+  Fun: "Fun"
+  
   #Reading: "Reading"
   
   
