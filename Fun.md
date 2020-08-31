@@ -4,7 +4,12 @@ layout: page
 #subtitle: Why you'd want to go on a date with me
 ---
 
-I love running in all forms- trail, road, track, etc. I also like to practice 'power' yoga (e.g. lots of pushups, the fun part). I do not under any circumstances advise you to live in California. 
+I love running in all forms- trail, road, track, etc. I also like to practice 'power' yoga (e.g. lots of pushups, the fun part). I recently adopted a cat named Médor. 
+
+PhD Graduation Day!
+<center><img src="/medor.jpg" alt="grad1" width="500" height="350"></center> <center> 
+
+<!--
 
 Photos:
 
@@ -20,7 +25,7 @@ Random other beautiful memories:
 
 <img src="/img/2017-05-27 15.46.02.jpg" alt="Potland, OR" width="200" height="200"><img src="/img/2017-07-13 06.48.51.jpg" alt="Toulong, France" width="200" height="200"><img src="/img/2017-07-18 07.34.53.jpg" alt="Toulon, France" width="200" height="200"><img src="/img/2017-07-20 11.04.59.jpg" alt="Nice, France" width="200" height="200"><img src="/img/2017-08-29 21.13.44.jpg" alt="Falling in love" width="200" height="200"><img src="/img/2017-07-20 11.50.57.jpg" alt="Nice,France" width="200" height="200"><img src="/img/2017-09-11 21.50.20.jpg" alt="Sleeping puppy" width="200" height="200"><img src="/img/2017-04-28 20.22.59.jpg" alt="Asheville, NC" width="200" height="200"><img src="/img/2017-10-08 15.17.00.jpg" alt="Chapel Hill, NC" width="200" height="200">
 
-
+-->
 
 
 
