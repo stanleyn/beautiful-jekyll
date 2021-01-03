@@ -4,7 +4,7 @@ layout: page
 #subtitle: Why you'd want to go on a date with me
 ---
 
-I love running in all forms- trail, road, track, etc. I also like to practice 'power' yoga (e.g. lots of pushups, the fun part). Recently, I adopted a cat named Médor. 
+I love running in all forms- trail, road, track, etc. I also like to practice 'power' yoga (e.g. lots of pushups, the fun part). Recently, I adopted a cat named <a href="https://www.instagram.com/medor_bonacci/">Médor</a>. 
 
 Médor the cat: 
 <center><img src="/medor.jpg" alt="grad1" width="500" height="350"></center> <center> 
