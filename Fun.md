@@ -7,7 +7,7 @@ layout: page
 I love running in all forms- trail, road, track, etc. I also like to practice 'power' yoga (e.g. lots of pushups, the fun part). Recently, I adopted a cat named <a href="https://www.instagram.com/medor_bonacci/">Médor</a>. 
 
 Médor the cat: 
-<center><img src="/medor.jpg" alt="grad1" width="500" height="350"></center> <center> 
+<center><img src="/medor.jpg" alt="grad1" width="500" height="350"></center><img src="/medor2.jpg" alt="grad1" width="500" height="350"></center> <center> 
 
 <!--
 
