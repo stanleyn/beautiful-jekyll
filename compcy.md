@@ -16,6 +16,7 @@ Here is some information about us,
 * We like to write code in Python, R, and Julia, and realize each language has certain strengths for particular tasks. 
 * We are very excited about interdiscplinary work and the opportunity to collaborate with people in the medical school!
 * We are excited to hear your ideas and unique perspectives.
+* We highly value and encourage diversity.  
 * We like to work hard, but also take care of ourselves and have fun with sports, pets, etc. outside of work. 
 
 Here are some potential 'about you' characteristics.
