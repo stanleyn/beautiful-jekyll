@@ -13,7 +13,7 @@ Here is some information about us,
 * We are also broadly intersted in 'multimodal' or multiomics data integration. 
 * We really enjoy numerical linear algebra and tackling our problems with graph-based techniques. 
 * Our objective is to create open source software to accompany our publications for other peole to use on their own data. 
-* We like to write code in Python, R, and Julia, and realize each language has certain strengths for particular tasks. 
+* We like to write code in Python, Julia, and R, and realize each language has certain strengths for particular tasks. 
 * We are very excited about interdiscplinary work and the opportunity to collaborate with people in the medical school!
 * We are excited to hear your ideas and unique perspectives.
 * We highly value and encourage diversity.  
