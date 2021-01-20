@@ -17,11 +17,14 @@ Here is some information about us,
 * We are very excited about interdiscplinary work and the opportunity to collaborate with people in the medical school!
 * We are excited to hear your ideas and unique perspectives.
 * We highly value and encourage diversity.  
-* We like to work hard, but also take care of ourselves and have fun with sports, pets, etc. outside of work. 
+* We like to work hard, but also take care of ourselves and have fun with sports, pets, social events, etc. outside of work. 
 
 Here are some potential 'about you' characteristics.
 
-* Curoisity about biology and willingness to learn relevant biological background
+* Curoisity about biology and willingness to learn relevant biological background. (Note that a background in biology is not required). 
 * Strong coding skills, and patience and persistence with debugging
-* Enjoyment of fascination with, or willingness to learn numerical linear algebra 
+* Enjoys (or is willing to learn) numerical linear algebra. 
+* Enjoys asking questions 
+* Enjoys communicating results or ideas (either verbally, through writing, or through data visualization)
+ 
 
