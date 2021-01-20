@@ -9,7 +9,7 @@ Here is some information about us,
 
 * We are jont between the Department of Computer Science and the Computational Medicine Program at UNC
 * The main focus of our work is in developing methods to extract information from single cells profiled with technologies, such as, flow and mass cytometry. 
-* We love immunology and understanding how the immune system works in particular diseases or traumas
+* We love immunology and understanding how the immune system adapts in particular diseases or traumas
 * We are also broadly intersted in 'multimodal' or multiomics data integration. 
 * We really enjoy numerical linear algebra and tackling our problems with graph-based techniques. 
 * Our objective is to create open source software to accompany our publications for other peole to use on their own data. 
