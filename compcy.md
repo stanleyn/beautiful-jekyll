@@ -1,6 +1,6 @@
 
 
-<center><img src="/CompCyPng.png" alt="grad1" width="500" height="300"></center> <center> 
+<center><img src="/CompCyPng.png" alt="grad1" width="500" height="300"></center> 
 
 
 We are a brand new lab at UNC. Right now, we are just getting set up (and working on a lab website!) in <a href="https://cs.unc.edu/"> UNC Computer Science</a> and <a href="https://www.med.unc.edu/compmed/"> UNC Comp Med</a>. We are looking for PhD students to join us. Please reach out to Natalie if you think you are a good fit. 
